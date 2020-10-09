@@ -2,15 +2,17 @@
 - layout: left
   name: Mumbai University
   dates: 2010 - 2014
-  qualification: Bachelors of Science
+  qualification: Bachelors of Science in Network Engineering
   #quote: >
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+  Participated and Organized events for the Institution of Electronics and Telecommunication Engineers.
+
 
 - layout: left
   name: San Francisco State University
   dates: 2014 - 2017
-  qualification: Masters of Science
+  qualification: Masters of Science in Engineering
   #quote: >
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+  President of the Indian Student Organisation
+  Volunteered at the Womens Center

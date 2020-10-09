@@ -38,8 +38,6 @@ about_content: | # this will include new lines to allow paragraphs
 
   I also closely worked with the Product and Engineering teams to relay client feedback and feature requests and acted as the technical liason between the client and the product/ engineering teams.
   Being the first Sales Engineer at Forio, I deisgned and set processes in place to ensure successful client interactions and increased the client retention rate by 55%.
-# Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
 
 Experience Section:
 experience_title: Experience #(Use this to override about experience section title)
@@ -47,6 +45,9 @@ experience_title: Experience #(Use this to override about experience section tit
 
 Education Section:
 education_title: Education #(Use this to override about education section title)
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
