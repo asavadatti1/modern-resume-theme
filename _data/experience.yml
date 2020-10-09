@@ -1,9 +1,29 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Forio Co
+  link: https://forio.com/
+  job_title: Technical Sales Engineer
+  dates: September 2017 - May 2020
+  quote: >
+   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of role
+
+- layout: left
+  company: San Francisco State University
+  link: https://www.sfsu.edu/
+  job_title: Technical Support Specialist
+  dates: September 2014 - May 2016
+  quote: >
+   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of role
+
+- layout: left
+  company: Jeppesen - A Boeing Company
+  link: https://ww2.jeppesen.com/
+  job_title: Solutions Engineering Intern
+  dates: May 2015 - August 2015
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs

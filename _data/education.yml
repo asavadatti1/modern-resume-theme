@@ -2,8 +2,15 @@
 - layout: left
   name: Mumbai University
   dates: 2010 - 2014
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
+  qualification: Bachelors of Science
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+    Description of qualification
+
+- layout: left
+  name: San Francisco State University
+  dates: 2014 - 2017
+  qualification: Masters of Science
+  #quote: >
   description: | # this will include new lines to allow paragraphs
     Description of qualification

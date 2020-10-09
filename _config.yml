@@ -29,26 +29,23 @@ additional_links:
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
 
-# About Section
-# about_title: About Me (Use this to override about section title)
+About Section:
+about_title: About Me (Use this to override about section title)
 about_profile_image: download.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
-
+  I am a Sales Engineer with over 3 years of experience in the EdTech industry. In my past experiences I was responsible for providing product demonstrations, and leading POCs for clients.
+  I worked with corporate clients such as Amazon, Salesforce, Johnson and Johnson and with Educational institutions such as MIT, HBS, Stanford and Wharton to understand client needs and worked to custom design solutions to fit the client needs.
+  I also closely worked with the Product and Engineering teams to relay client feedback and feature requests and acted as the technical liason between the client and the product/ engineering teams.
+  Being the first Sales Engineer at Forio, I deisgned and set processes in place to ensure successful client interactions and increased the client retention rate by 55%.
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
-# Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+Experience Section:
+experience_title: Experience #(Use this to override about experience section title)
 
-# Education Section
-# education_title: Education #(Use this to override about education section title)
+
+Education Section:
+education_title: Education #(Use this to override about education section title)
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
