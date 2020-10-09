@@ -30,11 +30,12 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 About Section:
-about_title: About Me (Use this to override about section title)
+about_title: About Me
 about_profile_image: download.png
 about_content: | # this will include new lines to allow paragraphs
   I am a Sales Engineer with over 3 years of experience in the EdTech industry. In my past experiences I was responsible for providing product demonstrations, and leading POCs for clients.
   I worked with corporate clients such as Amazon, Salesforce, Johnson and Johnson and with Educational institutions such as MIT, HBS, Stanford and Wharton to understand client needs and worked to custom design solutions to fit the client needs.
+#
   I also closely worked with the Product and Engineering teams to relay client feedback and feature requests and acted as the technical liason between the client and the product/ engineering teams.
   Being the first Sales Engineer at Forio, I deisgned and set processes in place to ensure successful client interactions and increased the client retention rate by 55%.
 # Projects Section
