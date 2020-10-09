@@ -5,8 +5,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Amrita Savadatti
 title: Sales Engineer
-email: asavadatti1@gmail.com
-phone: (415)870-5301
+email: asavadatti1 at gmail dot com
+phone: Contact via email
 
 # Dark Mode (true/false/never)
 darkmode: false
