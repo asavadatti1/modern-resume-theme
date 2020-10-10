@@ -1,17 +1,16 @@
 # Education Template
 - layout: left
-  name: Mumbai University
-  dates: 2010 - 2014
-  qualification: Bachelors of Science in Network Engineering
-  #quote: >
-  description: |
-    I participated and organized events for the Institution of Electronics and Telecommunication Engineers. I was placed 3rd at National Women’s Basketball tournament for Engineers in 2013.
-
-
-- layout: left
   name: San Francisco State University
   dates: 2014 - 2017
   qualification: Masters of Science in Engineering
   #quote: >
   description: |
     I was the President of the Indian Student Organisation at SF State. I also volunteered at the Womens Center where I addressed issues that concerned the lives of the female-identifying students and staff at the university.
+
+- layout: left
+  name: Mumbai University
+  dates: 2010 - 2014
+  qualification: Bachelors of Science in Network Engineering
+  #quote: >
+  description: |
+    I participated and organized events for the Institution of Electronics and Telecommunication Engineers. I was placed 3rd at National Women’s Basketball tournament for Engineers in 2013.

@@ -10,16 +10,6 @@
     I developed, presented, and delivered high-impact demonstrations of Forio products to prospective buyers, along with working on RFI/RFP responses for clients. I also acted as the subject matter expert leading POC initiatives. I assisted clients with the product integrations and served as a trusted advisor to customers. I worked with clients to assist them in creating strategies and devising solutions that best fit their needs. I also created and monitored SEO initiatives using Google Analytics and Google Adwords to run Ad campaigns in Asia, South America and North America. As I was the first SE at the company, I managed to create new sales and customer service initiatives and implemented them on SMB and enterprise accounts leading to an increase in revenue by 53%.
 
 - layout: left
-  company: San Francisco State University
-  link: https://www.sfsu.edu/
-  job_title: Technical Support Specialist
-  dates: August 2014 to August 2016
-  quote: >
-   San Francisco State University is a public university in San Francisco.
-  description: | # this will include new lines to allow paragraphs
-    I determined key parameters for optimizing the organizations service delivery and managed projects such as installing new print server that helped with the growth of the departments productivity by 23%. I also developed and implemented new processes for providing remote technical help to campus employees using active directory. I monitored client accounts, analyzed incomings and outgoings requests and successfully assisted end users resolve network issues within the campus.
-
-- layout: left
   company: Jeppesen, A Boeing Company
   link: https://ww2.jeppesen.com/
   job_title: Solutions Engineering Intern
@@ -28,3 +18,13 @@
    Jeppesen is an American company offering navigational information, operations planning tools, flight planning products and software.
   description: | # this will include new lines to allow paragraphs
     I provided technical support to over 300 employees at Boeing remotely(using Active Directory and SSH) and onsite. I created tickets and monitored progress of projects using JIRA. I was also responsible for maintaining and managing the internal databases using SQL. I implemented plans to install, configure, and troubleshoot employee hardware, and software to minimize system compromisation and monitor network performance. I participated in the beta phase testing with product development teams, and provided feedback to the teams. I acted as a liaison between clients and internal teams to convey feature request information that helped increase client satisfaction 32%.
+
+- layout: left
+  company: San Francisco State University
+  link: https://www.sfsu.edu/
+  job_title: Technical Support Specialist
+  dates: August 2014 to August 2016
+  quote: >
+   San Francisco State University is a public university in San Francisco.
+  description: | # this will include new lines to allow paragraphs
+    I determined key parameters for optimizing the organizations service delivery and managed projects such as installing new print server that helped with the growth of the departments productivity by 23%. I also developed and implemented new processes for providing remote technical help to campus employees using active directory. I monitored client accounts, analyzed incomings and outgoings requests and successfully assisted end users resolve network issues within the campus.
