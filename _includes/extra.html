@@ -1,0 +1,6 @@
+<div class="container extra-container">
+  <h3>{{ site.extra_title | default: "Additional Skills" }}</h3>
+  {% for extra in site.data.extra %}
+    {% include {{ extra.layout | default: 'left' | append: ".html" }} item=extra %}
+  {% endfor %}
+</div>
