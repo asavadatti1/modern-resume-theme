@@ -1,9 +1,15 @@
 # Project template
-- layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+- layout: left
+  name: RC Car Controlled via IoT
+  link: https://www.researchgate.net/publication/333949907_Operation_of_a_Car_Monitored_by_an_Android_Application_Over_WiFi
   quote: >
-    Short overview of the project (optional)
+    Operation of a Car Monitored by an Android Application Over WiFi
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Using Wi-Fi technology, I designed a remote-controlled car that can be operated using an android application. A camera is integrated with the microcontroller to receive real-time video transmission back to the Android hand-held device. An ultrasonic sensor is integrated with the setup which measures the distance between the car and any obstacle in its path and sends the observations to the user.
+
+- layout: left
+  name: Home Automation Using Speech Recognition
+  quote: >
+    Control appliances such as lights and fan using speech recognition.
+  description: | # this will include new lines to allow paragraphs
+    Controlled home appliances by using keywords such as Turn On/ Turn Off. The data was received and analyzed using Matlab and instructions were transmitted to the microcontroller by using wireless technology.

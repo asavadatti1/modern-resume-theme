@@ -1,14 +1,19 @@
-- layout: top-middle
+- layout: left
   name: Programming Languages
   description: | # this will include new lines to allow paragraphs
     SQL, Linux, HTML/CSS, JavaScript, REST API, JSON, AWS
 
-- layout: top-middle
+- layout: left
   name: Other Tools
   description: | # this will include new lines to allow paragraphs
     Google Analytics, MS Project, Github, Salesforce, Hubspot, WordPress, Network Protocols
 
-- layout: top-middle
+- layout: left
   name: Extracurriculars
   description: | # this will include new lines to allow paragraphs
-    Volunteer at Cake4Kids, Tennis, Blogging, Photography
+    In my free time I Volunteer at an organisation called Cake4Kids. I also enjoy playing tennis, writing travel blogs, and nature photography
+
+- layout: left
+  name: Spoken Languages
+  description: | # this will include new lines to allow paragraphs
+    I speak English, Hindi, Marathi, Kannada fluently.
